@@ -1,0 +1,13 @@
+{
+    "model": "BASEmodel.glb",
+    "idle_animation": "idle.glb",
+    "welcome_animation": "waving.glb",
+    "animations": [
+        "StandingW_BriefcaseIdle.glb",
+        "Acknowledging.glb",
+        "ArmStretching.glb",
+        "OffensiveIdle.glb",
+        "ThoughtfulHeadShake.glb",
+        "DwarfIdle.glb"
+    ]
+}
